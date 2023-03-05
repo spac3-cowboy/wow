@@ -1,0 +1,1 @@
+export const userData = JSON.parse(sessionStorage.getItem('USER_DATA'))||null
